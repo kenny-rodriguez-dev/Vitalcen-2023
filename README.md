@@ -68,7 +68,7 @@ Este es un \*\*sitio web estático\*\*. Está diseñado para una entidad y para 
 
 \## Autor
 
-\* \Kenny Rodríguez
+\* Kenny Rodríguez
 
-\* \https://www.linkedin.com/in/kennyrodriguezm/
+\* https://www.linkedin.com/in/kennyrodriguezm/
 
