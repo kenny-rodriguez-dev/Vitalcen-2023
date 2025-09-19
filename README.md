@@ -34,7 +34,7 @@ Este proyecto fue construido con las siguientes tecnologías:
 
 \## Configuración y Ejecución Local
 
-Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
+Siga estos pasos para configurar y ejecutar el proyecto en su máquina local:
 
 
 
@@ -42,7 +42,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/tu-usuario/vitalcen-2023.git](https://github.com/tu-usuario/vitalcen-2023.git)
+&nbsp;   git clone \[https://github.com/su-usuario/vitalcen-2023.git](https://github.com/su-usuario/vitalcen-2023.git)
 
 &nbsp;   ```
 
@@ -56,19 +56,19 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 3\.  \*\*Abrir el archivo principal\*\*:
 
-&nbsp;   Simplemente abre el archivo `index.html` en tu navegador web.
+&nbsp;   Simplemente debe abrir el archivo `index.html` en su navegador web.
 
 
 
 \## Estado del Proyecto
 
-Este es un \*\*sitio web estático\*\*. Está diseñado para demostrar mis habilidades técnicas en el desarrollo web.
+Este es un \*\*sitio web estático\*\*. Está diseñado para una entidad y para demostrar mis habilidades técnicas en el desarrollo web.
 
 
 
 \## Autor
 
-\* \[Kenny Rodríguez]
+\* \Kenny Rodríguez
 
-\* \[https://www.linkedin.com/in/kennyrodriguezm/]
+\* \https://www.linkedin.com/in/kennyrodriguezm/
 
