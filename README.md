@@ -4,7 +4,7 @@
 
 ### Descripción del Proyecto
 
-El sitio web de \*\*Vitalcen\*\* es un sitio web estático diseñado para presentar la información de un centro médico. La plataforma permite a los visitantes acceder a información esencial sobre los servicios, el equipo profesional, y la historia de la clínica, sirviendo como una herramienta de comunicación integral para la institución.
+El sitio web de **Vitalcen** es un sitio web estático diseñado para presentar la información de un centro médico. La plataforma permite a los visitantes acceder a información esencial sobre los servicios, el equipo profesional, y la historia de la clínica, sirviendo como una herramienta de comunicación integral para la institución.
 
 
 
@@ -40,23 +40,23 @@ Siga estos pasos para configurar y ejecutar el proyecto en su máquina local:
 
 1.  **Clonar el repositorio:**
 
-&nbsp;   ```bash
+   ```bash
 
-&nbsp;   git clone \[https://github.com/su-usuario/vitalcen-2023.git](https://github.com/su-usuario/vitalcen-2023.git)
+   git clone \[https://github.com/su-usuario/vitalcen-2023.git](https://github.com/su-usuario/vitalcen-2023.git)
 
-&nbsp;   ```
+   ```
 
 2.  **Navegar al directorio del proyecto:**
 
-&nbsp;   ```bash
+   ```bash
 
-&nbsp;   cd vitalcen-2023
+   cd vitalcen-2023
 
-&nbsp;   ```
+   ```
 
-3\.  \*\*Abrir el archivo principal\*\*:
+3.  **Abrir el archivo principal:**
 
-&nbsp;   Simplemente debe abrir el archivo `index.html` en su navegador web.
+   Simplemente debe abrir el archivo `index.html` en su navegador web.
 
 
 
